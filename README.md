@@ -10,3 +10,4 @@ The code was written in my first year of uni so it was not well formatted and so
 
 #The image in the repo shows that I have a high achievement in the data structure and algo couses and the assignment is purely done by myself without any assistance from others.
 
+# For testing reason, the Dijkstra's algo is in the Ass2_file folder and the centrality measuremnet and LcWlliam are in the testing folder.
