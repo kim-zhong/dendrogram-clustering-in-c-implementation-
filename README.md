@@ -8,3 +8,5 @@ The code was written in my first year of uni so it was not well formatted and so
 
 # Core part: Dijkstra's Algo, centrality measurement and LanceWillilam are implemented individually. Test cases are given by the faculty.
 
+#The image in the repo shows that I have a high achievement in the data structure and algo couses and the assignment is purely done by myself without any assistance from others.
+
