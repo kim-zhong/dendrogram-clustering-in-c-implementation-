@@ -1,3 +1,5 @@
+# For testing reason, the Dijkstra's algo is in the Ass2_file folder and the centrality measuremnet and LcWlliam are in the testing folder. 
+
 # dendrogram-clustering-in-c-implementation-
 This repo contains the code for I wrote for comp2521. In the assignemnt we are asked to hard code a dendrogram clustering with standard libraries.
 The code was written in my first year of uni so it was not well formatted and some trivial bugs might exist though it has past the test cases with 100% satisfaction.
@@ -10,4 +12,3 @@ The code was written in my first year of uni so it was not well formatted and so
 
 #The image in the repo shows that I have a high achievement in the data structure and algo couses and the assignment is purely done by myself without any assistance from others.
 
-# For testing reason, the Dijkstra's algo is in the Ass2_file folder and the centrality measuremnet and LcWlliam are in the testing folder.
